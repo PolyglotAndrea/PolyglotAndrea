@@ -68,7 +68,7 @@ Maintaining a rigorous focus on system security (the "Stuxnet" philosophy), ensu
 
 ## 📬 Connect & Collaborate
 * **Primary Domain:** [cognix.one](https://cognix.one)
-* **GitHub:** [@codebucker](https://github.com/PolyglotAndrea)
+* **GitHub:** [Andrea](https://github.com/PolyglotAndrea)
 * **Email:** [andrea@cognix.tech](mailto:andrea@cognix.tech)
 * **Current Location:** United States (based on system time/context)
 
