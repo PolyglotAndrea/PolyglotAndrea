@@ -1,5 +1,3 @@
-Below is the enhanced, professionally curated Markdown profile for **B. Andrea Horvath**. This version expands on your multi-language expertise, integrates your primary domain **Cognix.one**, and uses a sophisticated layout suitable for GitHub READMEs, personal portfolios, or technical resumes.
-
 ---
 
 # ⚡ B. Andrea Horvath
