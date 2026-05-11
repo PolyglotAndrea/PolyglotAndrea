@@ -2,7 +2,7 @@
 ---
 
 # ⚡ B. Andrea Horvath
-### **Senior AI Full-Stack Architect | Founder of [Cognix.one](https://cognix.one)**
+### **Senior AI Full-Stack Architect | Founder of [Cognix](https://cognix.build)**
 **Expertise in Distributed Systems, Neural Orchestration, and Polyglot Engineering**
 
 ---
@@ -12,7 +12,7 @@ A seasoned architect with over a decade of experience bridging the gap between h
 
 ---
 
-## 🌐 Flagship Project: [Cognix.one](https://cognix.one)
+## 🌐 Flagship Project: [Cognix](https://cognix.build)
 **"The Cognitive Operating System for the Modern Enterprise"**
 
 **Cognix.one** is a comprehensive AI-native orchestration platform designed to decentralize intelligence and automate complex workflows.
@@ -69,7 +69,7 @@ Maintaining a rigorous focus on system security (the "Stuxnet" philosophy), ensu
 ## 📬 Connect & Collaborate
 * **Primary Domain:** [cognix.one](https://cognix.one)
 * **GitHub:** [Andrea](https://github.com/PolyglotAndrea)
-* **Email:** [andrea@cognix.tech](mailto:andrea@cognix.tech)
+* **Email:** [andrea@cognix.tech](mailto:andrea@cognix.build)
 * **Current Location:** United States (based on system time/context)
 
 ---
